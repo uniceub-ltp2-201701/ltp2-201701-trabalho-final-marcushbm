@@ -36,6 +36,7 @@
 
 <br>
 
+<%--
 <h1 style="text-align:center;">MODIFICAR ATOR</h1>
    
 <div id="local">
@@ -72,6 +73,7 @@
   </form>
 </div>
 
+--%>
 
   	<% String m = (String) request.getAttribute("mensagem");
 	if(m==null)
