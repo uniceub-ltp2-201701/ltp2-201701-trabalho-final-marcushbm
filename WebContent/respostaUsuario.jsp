@@ -9,7 +9,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 <title>LOGIN</title>
 </head>
-<body>
+<body background="http://kaba35.com/wp-content/uploads/2015/11/Savin-NY-Website-Background-Web1.jpg">
 
 <%	HttpSession s = (HttpSession) request.getSession(true);
 	Usuario u = (Usuario)s.getAttribute("admin");
